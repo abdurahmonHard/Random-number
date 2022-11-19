@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    outline: none;
+    flex-direction: none;
+    
+}
+
+body{
+    background-color: rgb(189, 150, 150);
+    font-family: 'Inter', sans-serif
+}
+
+h1{
+    color: rgba(34, 34, 34, 0.774);
+}
+
+h2{
+    color: rgba(34, 34, 34, 0.774);
+}
+
+.natija{
+    color: rgba(34, 34, 34, 0.774);;
+}
+
+.container{
+    border: 10px solid rgb(187, 167, 167);
+    width: 50%;
+    height: 60vh;
+    margin: 0 auto;
+    margin-top: 8rem;
+    border-radius: 10px;
+    background-color: rgb(112, 99, 99);
+    box-shadow: 12px 12px 2px 1px rgba(65, 65, 94, 0.2);
+
+}
+
+.content_raq{
+   margin-left: 15rem;
+   margin-top: 1rem;
+}
+
+.content_ran{
+    margin-left: 15rem;
+    margin-top: 1rem;
+    
+    
+    
+}
+
+#Raqam{
+    padding: 10px;
+    border-radius: 7px;
+    border:none;
+    background-color: rgb(201, 190, 211);
+}
+
+.btn{
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 7px;
+    border:none;
+    background-color: rgb(201, 190, 211);
+}
+
+#random_son{
+    padding: 10px;
+    border-radius: 7px;
+    border:none;
+    background-color: rgb(201, 190, 211);
+}
+
+.remove{
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 7px;
+    border:none;
+    background-color: rgb(201, 190, 211);
+}
+
+.natija{
+    margin-top: 1rem;
+}
